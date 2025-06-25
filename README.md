@@ -5,7 +5,7 @@
 
 
 
-<h1 align="center">Hi!, I'm Elora Yasmin</h1>
+<h1 align="center">Hi! I'm Elora Yasmin</h1>
 <h3 align="center">A passionate Web developer from Bangladesh</h3>
 
 
