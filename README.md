@@ -12,7 +12,7 @@
 
 <h2> About Me </h2>
 
-- 📚 I’m currently pursuing **BBA in Accounting from National University.**
+- 📚 I’m currently pursuing **BBA in Accounting at National University of Bangladesh.**
 
 - 👨‍💻 I’m learning Web Development **at Programming Hero, Level-1, Batch-11, where I'm building strong foundations in full-stack development.**
 
