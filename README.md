@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.ibb.co/JRkCgXRP/ey-github-bsnner-img.gif" alt="cover" width="100%" />
+<img src="https://i.ibb.co.com/qY64SSBp/ey-github-bsnner-img-ezgif-com-optimize.gif" alt="cover" width="100%" />
 </div>
 
 
