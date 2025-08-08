@@ -20,11 +20,31 @@
 
 - 📫 How to reach me **elorayasmin20@gmail.com**
 
+<h2> Current Activities </h2>
+
+- 🔍 I am exploring **Next.js.**
+
+- 👨‍💻 Currently working on a **e-commerce website** with team project.
+
+
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://fb.com/elora.yasmin.21" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="elora.yasmin.21" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@elora256" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@elora256" height="30" width="40" /></a>
+<p align="left" style="display: flex; gap: 10px;">
+  <!-- Facebook -->
+  <a href="https://fb.com/elora.yasmin.21" target="_blank" style="display:inline-block; background-color: #f0f0f0; border-radius: 8px; padding: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" width="30" height="30" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/elorayasmin" target="_blank" style="display:inline-block; background-color: #f0f0f0; border-radius: 8px; padding: 6px;">
+    <img src="https://img.icons8.com/ios-filled/30/03a9fc/linkedin.png" alt="LinkedIn" width="30" height="30" />
+  </a>
+
+  <!-- YouTube -->
+  <a href="https://www.youtube.com/c/@elora256" target="_blank" style="display:inline-block; background-color: #f0f0f0; border-radius: 8px; padding: 6px;">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="YouTube" width="30" height="30" />
+  </a>
 </p>
+
 
 
 
@@ -33,8 +53,15 @@
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elora21y&show_icons=true&locale=en" alt="elora21y" /></p>
+<h2>📊 GitHub Stats</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Elora21y&show_icons=true&locale=en" alt="Elora's github stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Elora21y&layout=compact" alt="Top Languages" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elora21y&" alt="Elora's GitHub streak" />
+</p>
 
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elora21y&show_icons=true&locale=en&layout=compact" alt="elora21y" /></p>
 
