@@ -19,12 +19,14 @@
 - 💬 Ask me about **JavaScript , React .**
 
 - 📫 How to reach me **elorayasmin20@gmail.com**
+  
+- 📫 See my personal website **<a href ='https://elora-yasmin.netlify.app' target ='_black' />**
 
 <h2> Current Activities </h2>
 
 - 🔍 I am exploring **Next.js.**
 
-- 👨‍💻 Currently working on a **e-commerce website** with team project.
+- 👨‍💻 Currently working on a **Pet Adoption Portal website** with team project.
 
 
 <h3 align="left">Connect with me:</h3>
