@@ -20,8 +20,8 @@
 
 - 📫 How to reach me **elorayasmin20@gmail.com**
   
-- 📫 See my personal website **<a href ='https://elora-yasmin.netlify.app' target ='_black' />**
-
+- 📫 See my <a href ='https://elora-yasmin.netlify.app' target ='_black' > personal portfolio website </a>
+ 
 <h2> Current Activities </h2>
 
 - 🔍 I am exploring **Next.js.**
