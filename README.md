@@ -5,22 +5,22 @@
 
 
 
-<h1 align="center">Hi! I'm Elora Yasmin</h1>
-<h3 align="center">A passionate Web developer from Bangladesh</h3>
+<h1 align="center">Hi! This is Elora Yasmin</h1>
+<h3 align="center">Frontend developer from Bangladesh</h3>
 
 
 
 <h2> About Me </h2>
 
-- 📚 I’m currently pursuing **BBA in Accounting at National University of Bangladesh.**
+- 📚 I’m currently studying **BBA in Accounting at National University of Bangladesh.**
 
 - 👨‍💻 I’m learning Web Development **at Programming Hero, Level-1, Batch-11, where I'm building strong foundations in MERN stack development.**
 
 - 💬 Ask me about **JavaScript , React .**
 
-- 📫 How to reach me **elorayasmin20@gmail.com**
+- 📫 How to reach me ****elorayasmin20@gmail.com****
   
-- 📫 See my <a href ='https://elora-yasmin.netlify.app' target ='_black' > personal portfolio website </a>
+- 📫 See my <a href ='https://elora-yasmin.netlify.app' target="_blank" > personal website </a>
  
 <h2> Current Activities </h2>
 
