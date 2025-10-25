@@ -87,3 +87,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elora21y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
 
+<!-- <p>
+  theme=tokyonight
+theme=dracula
+theme=gruvbox
+theme=onedark
+theme=cobalt
+theme=synthwave
+</p> -->
