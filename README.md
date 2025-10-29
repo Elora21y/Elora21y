@@ -86,7 +86,15 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Elora21y&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak" />
 </p>
-
+<!-- <p align="center">
+  <picture>
+    <source 
+      srcset="https://github-readme-stats.vercel.app/api?username=Elora21y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"
+      media="(prefers-color-scheme: dark)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Elora21y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  </picture>
+</p> -->
 <!-- <p>
   theme=tokyonight
 theme=dracula
