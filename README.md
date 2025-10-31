@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://i.ibb.co.com/qY64SSBp/ey-github-bsnner-img-ezgif-com-optimize.gif" alt="cover" width="100%" />
+<img src="https://i.ibb.co/qY64SSBp/ey-github-bsnner-img-ezgif-com-optimize.gif" alt="cover" width="100%" />
 </div>
+<!-- <div align="center">
+<img src="https://i.ibb.co.com/qY64SSBp/ey-github-bsnner-img-ezgif-com-optimize.gif" alt="cover" width="100%" />
+</div> -->
 
 
 
@@ -63,7 +66,7 @@
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/daisyui-314f29?style=for-the-badge&logo=daisyui&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js" />
 </p>
