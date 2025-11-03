@@ -69,6 +69,9 @@
   <!-- <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> -->
   <img src="https://img.shields.io/badge/daisyui-314f29?style=for-the-badge&logo=daisyui&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Next.js-20232A?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/css-%233c1c5c?style=for-the-badge&logo=css" />
+  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JWT&logoColor=white" />
+  <img src="https://img.shields.io/badge/stripe-%23281166?style=for-the-badge&logo=stripe" />
 </p>
 
 
