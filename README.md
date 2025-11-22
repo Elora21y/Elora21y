@@ -17,8 +17,6 @@
 
 - 📚 I’m currently studying **BBA in Accounting at National University of Bangladesh.**
 
-- 👨‍💻 I’m learning Web Development **at Programming Hero, Level-1, Batch-11, where I'm building strong foundations in MERN stack development.**
-
 - 💬 Ask me about **JavaScript , React .**
 
 - 📫 How to reach me ****elorayasmin20@gmail.com****
@@ -113,3 +111,5 @@ theme=onedark
 theme=cobalt
 theme=synthwave
 </p> -->
+<!-- p
+- 👨‍💻 I’m learning Web Development **at Programming Hero, Level-1, Batch-11, where I'm building strong foundations in MERN stack development.** -->
