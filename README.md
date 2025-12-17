@@ -17,11 +17,13 @@
 
 - 📚 I’m currently studying **BBA in Accounting at National University of Bangladesh.**
 
-- 💬 Ask me about **JavaScript , React .**
+- 💬 Ask me about **JavaScript &  React .**
 
 - 📫 How to reach me ****elorayasmin20@gmail.com****
   
 - 📫 See my <a href ='https://elora-yasmin.netlify.app' target="_blank" > personal website </a>
+
+- 📚 I am learned Web Development from ***Programming Hero Complete Web Development Course***
  
 <h2> Current Activities </h2>
 
